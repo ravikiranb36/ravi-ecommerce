@@ -8,7 +8,7 @@ django-phonenumbers==1.0.1
 django-plugins==0.3.0
 django-sql==1.0.1
 django-storages==1.6.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 phonenumbers==8.11.2
 psycopg2==2.8.4
 pytz==2018.5
